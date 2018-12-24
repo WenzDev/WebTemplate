@@ -7,7 +7,7 @@ export default {
   name: 'PageHeadingComponent',
   data () {
     return {
-      title: 'Daily Videos'
+      title: 'Templating Software'
     }
   }
 }
